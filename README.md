@@ -61,4 +61,4 @@ Handles combinatorially large solution spaces (10^15+ configurations for 50-stud
 
 Email: [aaronddavis001@gmail.com](mailto:aaronddavis001@gmail.com)
 
-LinkedIn: [https://linkedin.com/in/aaron-daniel-davis]
+LinkedIn: [https://linkedin.com/in/aaron-daniel-davis](https://linkedin.com/in/aaron-daniel-davis)
